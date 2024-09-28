@@ -22,6 +22,15 @@ Bachelor’s in Applied Physics | GPA: 3.8 | 2007–2011
 **Howard Community College**  
 Biomedical Engineering Specialist CP | GPA: 3.8 | 2018–2020
 
+UMBC Coursework:
+- Intro to Data Science
+- Data Analysis and Machine Learning
+- Platforms for Big Data Processing
+- Data Management
+- Capstone Project in Data Science
+- Financial Topics in Data Science
+- Large Language Models (LLM) and Natural Language Processing (NLP)
+
 ---
 
 ## TECHNICAL SKILLS
