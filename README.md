@@ -51,14 +51,20 @@ UMBC Coursework:
 ### 1. A Virtual Friend for Kids with Special Needs (Leveraging LLM and NLP for Assistive Technology)
 - **Objective**: Designed and implemented a personal assistant application using Large Language Models (LLM) and Natural Language Processing (NLP) techniques to assist children with special needs and improve communication and daily activities through personalized interactions.
 - **Critical Insights**: Gained a deeper understanding of how OpenAI's Assistant API enhances verbal communication skills and maintains engagement by sustaining children's focus during interactions, contributing to improved outcomes in assistive technology.
+- ### [A Virtual Friend for Kids with Special Needs](https://github.com/sophiasarica/)  
+
 
 ### 2. SL-RAT Scores Degradation Prediction Model (Addressing Baltimore County's Infrastructure Issues)
 - **Project Scope**: Developed a machine learning model to predict SL-RAT score degradation, addressing critical infrastructure issues in Baltimore County. Utilized Random Forest and Naive Bayes algorithms to model the predictions.
 - **Results**: Demonstrated model efficiency through the ROC curve comparison, enhancing infrastructure management and optimizing maintenance and resource allocation across the county.
+- ### [SL-RAT Scores Degradation Prediction Model](https://github.com/sophiasarica/)  
+
 
 ### 3. Sentiment Analysis and Portfolio Optimization for Tesla and Bitcoin
 - **Implementation**: Conducted sentiment analysis on Twitter data related to Tesla and Bitcoin. Integrated sentiment data with historical stock prices of TSLA and BTC_USA to construct and evaluate LSTM models for predicting the impact on Tesla's daily stock returns and Bitcoin valuations.
 - **Outcomes**: Successfully demonstrated the models' predictive capabilities, contributing to more informed investment decisions and two-asset portfolio optimization strategies.
+- ### [Sentiment Analysis and Portfolio Optimization for Tesla and Bitcoin](https://github.com/sophiasarica/)  
+
 
 ---
 
