@@ -51,7 +51,7 @@ UMBC Coursework:
 ### 1. A Virtual Friend for Kids with Special Needs (Leveraging LLM and NLP for Assistive Technology)
 - **Objective**: Designed and implemented a personal assistant application using Large Language Models (LLM) and Natural Language Processing (NLP) techniques to assist children with special needs and improve communication and daily activities through personalized interactions.
 - **Critical Insights**: Gained a deeper understanding of how OpenAI's Assistant API enhances verbal communication skills and maintains engagement by sustaining children's focus during interactions, contributing to improved outcomes in assistive technology.
-- ### [A Virtual Friend for Kids with Special Needs](https://github.com/sophiasarica/)  
+- ### [A Virtual Friend for Kids with Special Needs]([https://github.com/sophiasarica/](https://github.com/sophiasarica/LLM-and-NLP-for-Assistive-Technology)  
 
 
 ### 2. SL-RAT Scores Degradation Prediction Model (Addressing Baltimore County's Infrastructure Issues)
