@@ -57,7 +57,7 @@ UMBC Coursework:
 ### 2. SL-RAT Scores Degradation Prediction Model (Addressing Baltimore County's Infrastructure Issues)
 - **Project Scope**: Developed a machine learning model to predict SL-RAT score degradation, addressing critical infrastructure issues in Baltimore County. Utilized Random Forest and Naive Bayes algorithms to model the predictions.
 - **Results**: Demonstrated model efficiency through the ROC curve comparison, enhancing infrastructure management and optimizing maintenance and resource allocation across the county.
-- ### [SL-RAT Scores Degradation Prediction Model]([https://github.com/sophiasarica/](https://github.com/sophiasarica/SL-RAT-PROJECT/tree/main))  
+- ### [SL-RAT Scores Degradation Prediction Model](https://github.com/sophiasarica/SL-RAT-PROJECT/tree/main)  
 
 
 ### 3. Sentiment Analysis and Portfolio Optimization for Tesla and Bitcoin
